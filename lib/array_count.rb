@@ -1,8 +1,8 @@
 def count_strings(array)
   
-  # array_1 = ["", "hello", "world", 4, 1, 5, [], {}]
   array.count do |num|
     num.class == Strings
+  end
     
 end
 
