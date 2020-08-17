@@ -5,7 +5,6 @@ def count_strings(array)
     num.class == Strings
     
 end
-end
 
   
   
